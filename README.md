@@ -87,7 +87,7 @@ We are always on the lookout for talented developers, designers, and community m
 1. **Explore Our Projects:** Familiarize yourself with our ongoing and past projects to understand our work.
 2. **Join Our Discord:** Introduce yourself on our Discord server and get to know the team.
 3. **Contribute:** Start by picking an issue from one of our repositories or proposing a new feature.
-4. **Submit Your Application:** If you want to join the team full-time, send your resume and a brief introduction to [email@example.com](mailto:email@example.com).
+4. **Submit Your Application:** If you want to join the team full-time, send your resume and a brief introduction to [admin@compile.gg]([admin@compile.gg).
 
 ## **Communication**
 
